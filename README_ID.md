@@ -46,7 +46,7 @@ Jika Anda memerlukan bantuan, Anda dapat melihat panduan resmi yang ada pada <a 
 2. Ekstrak arsip zip yang telah Anda unduh dan buka foldernya.
 3. Terdapat penginstal dengan nama `Konfersi Tide.exe`.
 4. Klik, dan lakukan instalasi.
-5. Anda memerlukan kata sandi untuk memulai instalasi. Anda bisa menghubungi kami dengan mengisi link berikut untuk mendapatkan password:
+5. Anda memerlukan kata sandi untuk memulai instalasi. Anda bisa menghubungi kami dengan mengisi link berikut untuk mendapatkan kata sandi:
 
     a. untuk [Siswa/Mahasiswa](https://konfersi.herokuapp.com/home/studentmetocean.html)
     
