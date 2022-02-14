@@ -5,7 +5,7 @@
 
 <h1>
   <a href="https://tide-konversi.herokuapp.com/home/index.html">
-  <img src="https://raw.githubusercontent.com/Konfersi-Indonesia/KonfersiTideTrial/main/Picture1.ico" width="215px" align="right" />
+  <img src="https://raw.githubusercontent.com/Konfersi-Indonesia/KonfersiTide-Trial/main/Picture1.ico" width="215px" align="right" />
 </a>
   <br>
   <a href="https://github.com/Konfersi-Indonesia/KonfersiTide-Trial/blob/main/README.md">
@@ -27,7 +27,7 @@
   Konfersi Tide is software to analyze and predict tidal data. This software is installer for Windows.
 </h3>
 
-<a href="https://github.com/Konfersi-Indonesia/KonfersiTideTrial">
+<a href="https://github.com/Konfersi-Indonesia/KonfersiTide-Trial">
   <img src="https://user-images.githubusercontent.com/82978589/153845674-cf86b54a-a6a1-487b-be6d-83b59b0b0f9a.png" width="600px" align="center" />
 </a>
 
@@ -42,7 +42,7 @@ If you need help, you can take a look at the official getting started guides loc
 ### Manual installation
 #### Windows
 
-1. Download [the Konfersi Tide repository](https://github.com/Konfersi-Indonesia/KonfersiTideTrial).
+1. Download [the Konfersi Tide repository](https://github.com/Konfersi-Indonesia/KonfersiTide-Trial).
 2. Extract the zip archive you've downloaded and open the folder.
 3. There is an installer with name `Konfersi Tide.exe`.
 4. Click it, and doing installation.
