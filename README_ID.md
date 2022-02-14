@@ -27,7 +27,7 @@
   Konversi Tide adalah perangkat lunak untuk menganalisis dan memprediksi data pasang surut. Perangkat lunak ini adalah penginstal untuk Windows.
 </h3>
 
-<a href="https://github.com/Konfersi-Indonesia/KonfersiTideTrial">
+<a href="https://github.com/Konfersi-Indonesia/KonfersiTide-Trial">
   <img src="https://user-images.githubusercontent.com/82978589/153845674-cf86b54a-a6a1-487b-be6d-83b59b0b0f9a.png" width="600px" align="center" />
 </a>
 
@@ -42,7 +42,7 @@ Jika Anda memerlukan bantuan, Anda dapat melihat panduan resmi yang ada pada <a 
 ### Panduan Instalasi
 #### Windows
 
-1. Unduh [the Konfersi Tide repository](https://github.com/Konfersi-Indonesia/KonfersiTideTrial).
+1. Unduh [the Konfersi Tide repository](https://github.com/Konfersi-Indonesia/KonfersiTide-Trial).
 2. Ekstrak arsip zip yang telah Anda unduh dan buka foldernya.
 3. Terdapat penginstal dengan nama `Konfersi Tide.exe`.
 4. Klik, dan lakukan instalasi.
