@@ -46,7 +46,9 @@ If you need help, you can take a look at the official getting started guides loc
 2. Extract the zip archive you've downloaded and open the folder.
 3. There is an installer with name `Konfersi Tide.exe`.
 4. Click it, and doing installation.
-5. You need password to start the installation. You can contact us in DM [Instagram](https://www.instagram.com/konfersi.id/) to get the password.
+5. You need password to start the installation. You can request on this link to get the password:
+    a. for [Students](https://konfersi.herokuapp.com/home/studentmetocean.html)
+    b. for [Professional](https://konfersi.herokuapp.com/home/profmetocean.html)
 
 ### Limitation
 
