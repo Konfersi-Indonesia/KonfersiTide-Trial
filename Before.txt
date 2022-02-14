@@ -1,0 +1,11 @@
+Welcome to the installer for Konfersi Tide Trial Version 1.0.
+
+It is strongly recommended that you exit all Windows programs before continuing with this installation.
+
+If you have any other programs running, please click Cancel, close the programs and run this setup again.
+
+This program is safe from viruses and it is hoped that you will read the guide and watch the video tutorials that we have provided
+
+The program is used for free and to support us, follow us on social media!
+
+Otherwise, click Next to continue
