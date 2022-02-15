@@ -80,5 +80,5 @@ Some third-party included files may have different licenses - please check their
 
 Project Link: [https://github.com/Konfersi-Indonesia](https://github.com/Konfersi-Indonesia)
 <br/>
-Website Link: [https://tide-konversi.herokuapp.com/home/index.html](https://tide-konversi.herokuapp.com/home/index.html)
+Website Link: [https://tide-konversi.herokuapp.com/home/index.html](https://konfersi.herokuapp.com/home/index.html)
 <br/>
