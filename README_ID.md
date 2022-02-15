@@ -33,7 +33,7 @@
 
 ## Memulai Penggunaan
 
-#### Cara termudah untuk memulai Konfersi Tide adalah dengan mengunduh [rilis terbaru] (https://tide-konversi.herokuapp.com/home/index.html) for your OS.<br>
+#### Cara termudah untuk memulai Konfersi Tide adalah dengan mengunduh [rilis terbaru](https://konfersi.herokuapp.com/home/index.html) for your OS.<br>
 Setelah mengunduh rilis, unzip dan luncurkan program yang diinginkan.<br>
 Tidak ada kebutuhan lain yang diperlukan.
 
