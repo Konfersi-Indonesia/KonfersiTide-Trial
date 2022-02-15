@@ -80,5 +80,5 @@ Beberapa file yang disertakan pihak ketiga mungkin memiliki lisensi yang berbeda
 
 Alamat Proyek: [https://github.com/Konfersi-Indonesia](https://github.com/Konfersi-Indonesia)
 <br/>
-Alamat Website: [https://tide-konversi.herokuapp.com/home/index.html](https://tide-konversi.herokuapp.com/home/index.html)
+Alamat Website: [https://konfersi.herokuapp.com/home/index.html](https://konfersi.herokuapp.com/home/index.html)
 <br/>
