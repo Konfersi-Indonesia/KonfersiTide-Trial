@@ -33,11 +33,11 @@
 
 ## Getting started
 
-#### The easiest way to get started with Konfersi Tide is to download [the latest release](https://tide-konversi.herokuapp.com/home/index.html) for your OS.<br>
+#### The easiest way to get started with Konfersi Tide is to download [the latest release](https://konfersi.herokuapp.com/home/index.html) for your OS.<br>
 After downloading the release, unzip it and launch the desired program.<br>
 There are no dependencies required.
 
-If you need help, you can take a look at the official getting started guides located <a href="https://tide-konversi.herokuapp.com/home/index.html">on the official website</a>.<br>
+If you need help, you can take a look at the official getting started guides located <a href="https://konfersi.herokuapp.com/home/index.html">on the official website</a>.<br>
 
 ### Manual installation
 #### Windows
@@ -80,5 +80,5 @@ Some third-party included files may have different licenses - please check their
 
 Project Link: [https://github.com/Konfersi-Indonesia](https://github.com/Konfersi-Indonesia)
 <br/>
-Website Link: [https://tide-konversi.herokuapp.com/home/index.html](https://konfersi.herokuapp.com/home/index.html)
+Website Link: [https://konfersi.herokuapp.com/home/index.html](https://konfersi.herokuapp.com/home/index.html)
 <br/>
